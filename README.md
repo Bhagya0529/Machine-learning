@@ -1,6 +1,6 @@
 The machine learning consists of four paradigms as supervised learning, unsupervised learning, reinforcement learning and semi-supervised learning.
 The programs necessary for the basic introduction of machine learning models by supervised learning and unsupervised learning is provided. 
-Firstly, we load the dataset. The dataset used here is in .csv(comma separeted values). Then we perform the data preprocessing which includes the following process:
+Firstly, we load the dataset. The dataset used here is in .csv(comma separeted values) format. Then we perform the data preprocessing which includes the following process:
 
 Data Cleaning: This step involves handling missing data, outliers, and noise in the dataset. Common techniques include imputation for missing values, removing outliers, and smoothing noisy data.
 
